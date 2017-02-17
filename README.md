@@ -1,6 +1,6 @@
 <h3>Interesting Publically Available Datasets</h3>
-<br>
-<br><a href="https://www.kaggle.com/dalpozz/creditcardfraud/downloads/creditcardfraud.zip">Credit Card Fraud Detection</a>
+
+<br><a href="https://www.kaggle.com/dalpozz/creditcardfraud">Credit Card Fraud Detection</a>
 <br><a href="https://www.kaggle.com/uciml/sms-spam-collection-dataset>SMS Spam Dataset</a>
 <br><a href="https://www.kaggle.com/wendykan/lending-club-loan-data">Lending Club Loan Data</a>
 <br><a href="https://www.kaggle.com/aaron7sun/stocknews">Daily News for Stock Market Prediction</a>
@@ -21,5 +21,13 @@
 <br><a href="https://www.kaggle.com/giovamata/airlinedelaycauses">Airline Delays</a>
 <br><a href="https://www.kaggle.com/usaf/world-war-ii">Aerial Bombings in WWII</a>
 <br><a href="https://www.kaggle.com/wpncrh/zip-code-income-tax-data-2014">2014 US Income Tax Data</a>
+<br><a href="https://www.kaggle.com/PythonforSASUsers/hpindex">Home Price Index</a>
+<br><a href="https://www.kaggle.com/thibalbo/techcrunch-posts-compilation">TechCrunch Posts</a>
+<br><a href="https://www.kaggle.com/rootuser/worldnews-on-reddit">World News on Reddit - 2008 - 2016</a>
+<br><a href="https://www.kaggle.com/stackoverflow/stacksample">Stack Overflow Q&A</a>
+<br><a href="https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset">IMDB Movie Dataset</a>
 
+<b>Links for more Datasets</b>
+<br><a href="http://archive.ics.uci.edu/ml/index.html">UCI Machine Learning Repo</a>
+<br><a href="https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.ji0rbltv8">Datasets for AI</a>
 
