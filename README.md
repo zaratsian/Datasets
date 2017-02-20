@@ -26,11 +26,17 @@
 <br><a href="https://www.kaggle.com/rootuser/worldnews-on-reddit">World News on Reddit - 2008 - 2016</a>
 <br><a href="https://www.kaggle.com/stackoverflow/stacksample">Stack Overflow Q&A</a>
 <br><a href="https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset">IMDB Movie Dataset</a>
+<br><a href="http://www.cs.cornell.edu/People/pabo/movie-review-data/">Movie Review Dataset</a>
+<br><a href="http://kavita-ganesan.com/opinosis-opinion-dataset">Product Review & Opinion Data</a>
+<br><a href="http://www.cs.cmu.edu/~mehrbod/RR/">Restaurant Reviews</a>
+<br><a href="http://snap.stanford.edu/data/web-Amazon.html">Amazon Product Reviews</a>
 <br>
 <br>
-<br><b>Links to more Datasets</b>
+<br><b>Links to more Dataset Repos</b>
+<br><a href="http://snap.stanford.edu/data/index.html">Stanford SNAP Datasets</a>
 <br><a href="https://vincentarelbundock.github.io/Rdatasets/datasets.html">R Datasets</a>
 <br><a href="http://archive.ics.uci.edu/ml/index.html">UCI Machine Learning Repo</a>
 <br><a href="https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.ji0rbltv8">Datasets for AI</a>
+
 
 
