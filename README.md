@@ -37,6 +37,9 @@
 <br><a href="https://vincentarelbundock.github.io/Rdatasets/datasets.html">R Datasets</a>
 <br><a href="http://archive.ics.uci.edu/ml/index.html">UCI Machine Learning Repo</a>
 <br><a href="https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.ji0rbltv8">Datasets for AI</a>
+<br><a href="https://api.randomuser.me/?nat=us&results=1000">Dataset Generator - Random User Data</a>
+<br><a href="http://theonegenerator.com/">Dataset Generator</a>
+<br>
 
 
 
