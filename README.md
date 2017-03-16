@@ -1,7 +1,7 @@
 <h3>Interesting Publically Available Datasets</h3>
 
 <br><a href="https://www.kaggle.com/dalpozz/creditcardfraud">Credit Card Fraud Detection</a>
-<br><a href="https://www.kaggle.com/uciml/sms-spam-collection-dataset>SMS Spam Dataset</a>
+<br><a href="https://www.kaggle.com/uciml/sms-spam-collection-dataset">SMS Spam Dataset</a>
 <br><a href="https://www.kaggle.com/wendykan/lending-club-loan-data">Lending Club Loan Data</a>
 <br><a href="https://www.kaggle.com/aaron7sun/stocknews">Daily News for Stock Market Prediction</a>
 <br><a href="https://www.kaggle.com/benhamner/sf-bay-area-bike-share">San Francisco Bike Share</a>
