@@ -39,6 +39,8 @@
 <br><a href="https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.ji0rbltv8">Datasets for AI</a>
 <br><a href="https://api.randomuser.me/?nat=us&results=1000">Dataset Generator - Random User Data</a>
 <br><a href="http://theonegenerator.com/">Dataset Generator</a>
+<br><a href="http://api.bart.gov/docs/overview/index.aspx">San Francisco Bart Real-time API Feed</a>
+<br><a href="http://developer.metro.net/introduction/realtime-api-overview/">Metro Bus and Rail Real-time API Feed</a>
 <br>
 
 
