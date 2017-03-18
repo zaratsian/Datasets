@@ -41,6 +41,7 @@
 <br><a href="http://theonegenerator.com/">Dataset Generator</a>
 <br><a href="http://api.bart.gov/docs/overview/index.aspx">San Francisco Bart Real-time API Feed</a>
 <br><a href="http://developer.metro.net/introduction/realtime-api-overview/">Metro Bus and Rail Real-time API Feed</a>
+<br><a href="http://www.railwayapi.com/api/#introduction">Indian Railway Real-time API</a>
 <br>
 
 
