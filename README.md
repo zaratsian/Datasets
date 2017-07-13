@@ -33,6 +33,7 @@
 <br><a href="http://tour-pedia.org/about/datasets.html">Tourism Dataset (Hotels, Hospitality, Themepark, etc.</a>
 <br><a href="https://www.kaggle.com/c/expedia-hotel-recommendations/data">Kaggle - Expedia Hotel Recommendations</a>
 <br><a href="http://www.cs.cmu.edu/~jiweil/html/hotel-review.html">Hotel Review Datasets</a>
+<br><a href="https://github.com/quankiquanki/skytrax-reviews-dataset">Airline Quality Reviews</a>
 <br>
 <br>
 <br><b>Links to more Dataset Repos</b>
