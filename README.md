@@ -45,6 +45,7 @@
 <br><a href="http://api.bart.gov/docs/overview/index.aspx">San Francisco Bart Real-time API Feed</a>
 <br><a href="http://developer.metro.net/introduction/realtime-api-overview/">Metro Bus and Rail Real-time API Feed</a>
 <br><a href="http://www.railwayapi.com/api/#introduction">Indian Railway Real-time API</a>
+<br><a href="http://text-analytics101.rxnlp.com/2011/07/user-review-datasets_20.html">Text Analytics Datasets</a>
 <br>
 
 
