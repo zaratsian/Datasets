@@ -36,7 +36,8 @@
 <br><a href="https://github.com/quankiquanki/skytrax-reviews-dataset">Airline Quality Reviews</a>
 <br>
 <br>
-<br><b>Links to more Dataset Repos</b>
+<br><b>Links to more Dataset Repos:</b>
+<br>
 <br><a href="http://snap.stanford.edu/data/index.html">Stanford SNAP Datasets</a>
 <br><a href="https://vincentarelbundock.github.io/Rdatasets/datasets.html">R Datasets</a>
 <br><a href="https://archive.ics.uci.edu/ml/datasets.html">UCI Machine Learning Repo</a>
