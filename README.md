@@ -1,5 +1,4 @@
 <h3>Interesting Publically Available Datasets</h3>
-
 <br><a href="https://www.kaggle.com/dalpozz/creditcardfraud">Credit Card Fraud Detection</a>
 <br><a href="https://www.kaggle.com/uciml/sms-spam-collection-dataset">SMS Spam Dataset</a>
 <br><a href="https://www.kaggle.com/wendykan/lending-club-loan-data">Lending Club Loan Data</a>
@@ -36,8 +35,7 @@
 <br><a href="https://github.com/quankiquanki/skytrax-reviews-dataset">Airline Quality Reviews</a>
 <br>
 <br>
-<br><b>Links to more Dataset Repos:</b>
-<br>
+<h3>Links to more Dataset Repos:</h3>
 <br><a href="http://snap.stanford.edu/data/index.html">Stanford SNAP Datasets</a>
 <br><a href="https://vincentarelbundock.github.io/Rdatasets/datasets.html">R Datasets</a>
 <br><a href="https://archive.ics.uci.edu/ml/datasets.html">UCI Machine Learning Repo</a>
