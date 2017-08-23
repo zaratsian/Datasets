@@ -40,8 +40,6 @@
 <br><a href="https://vincentarelbundock.github.io/Rdatasets/datasets.html">R Datasets</a>
 <br><a href="https://archive.ics.uci.edu/ml/datasets.html">UCI Machine Learning Repo</a>
 <br><a href="https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.ji0rbltv8">Datasets for AI</a>
-<br><a href="https://api.randomuser.me/?nat=us&results=1000">Dataset Generator - Random User Data</a>
-<br><a href="http://theonegenerator.com/">Dataset Generator</a>
 <br><a href="http://api.bart.gov/docs/overview/index.aspx">San Francisco Bart Real-time API Feed</a>
 <br><a href="http://developer.metro.net/introduction/realtime-api-overview/">Metro Bus and Rail Real-time API Feed</a>
 <br><a href="http://www.railwayapi.com/api/#introduction">Indian Railway Real-time API</a>
@@ -52,6 +50,14 @@
 <br><a href="http://www.secrepo.com/">Security (Cybersecurity) Datasets</a>
 <br><a href="https://www.quantopian.com/">Quantopian Stock Market Modeling</a>
 <br>
+<br>
+<h3>Data Generators:</h3>
+<br><a href="https://www.mockaroo.com/">Mockaroo</a>
+<br><a href="https://www.generatedata.com/">GenerateData.com</a>
+<br><a href="https://api.randomuser.me/?nat=us&results=1000">Dataset Generator - Random User Data</a>
+<br><a href="http://theonegenerator.com/">Dataset Generator</a>
+<br>
+
 
 
 
