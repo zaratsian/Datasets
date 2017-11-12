@@ -49,6 +49,7 @@
 <br><a href="https://gist.github.com/olivercameron/482dcfe8f34d66b536b1048eefe8b40d#file-datasets-csv">20 Weird & Wonderful Datasets for Machine Learning</a>
 <br><a href="http://www.secrepo.com/">Security (Cybersecurity) Datasets</a>
 <br><a href="https://www.quantopian.com/">Quantopian Stock Market Modeling</a>
+<br><a href="http://open-notify.org/">Open APIs From Space</a>
 <br>
 <br>
 <h3>Data Generators:</h3>
