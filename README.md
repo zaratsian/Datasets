@@ -41,17 +41,21 @@
 <br><a href="https://vincentarelbundock.github.io/Rdatasets/datasets.html">R Datasets</a>
 <br><a href="https://archive.ics.uci.edu/ml/datasets.html">UCI Machine Learning Repo</a>
 <br><a href="https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.ji0rbltv8">Datasets for AI</a>
-<br><a href="http://api.bart.gov/docs/overview/index.aspx">San Francisco Bart Real-time API Feed</a>
-<br><a href="http://developer.metro.net/introduction/realtime-api-overview/">Metro Bus and Rail Real-time API Feed</a>
-<br><a href="http://www.railwayapi.com/api/#introduction">Indian Railway Real-time API</a>
 <br><a href="http://text-analytics101.rxnlp.com/2011/07/user-review-datasets_20.html">Text Analytics Datasets</a>
 <br><a href="https://github.com/fivethirtyeight/data">Data and code behind the stories and interactives at FiveThirtyEight</a>
 <br><a href="https://deeplearning4j.org/opendata">DeepLearning4J Datasets</a>
 <br><a href="https://gist.github.com/olivercameron/482dcfe8f34d66b536b1048eefe8b40d#file-datasets-csv">20 Weird & Wonderful Datasets for Machine Learning</a>
 <br><a href="http://www.secrepo.com/">Security (Cybersecurity) Datasets</a>
 <br><a href="https://www.quantopian.com/">Quantopian Stock Market Modeling</a>
-<br><a href="http://open-notify.org/">Open APIs From Space</a>
+<br>
+<br>
+<h3>APIs:</h3>
 <br><a href="https://github.com/toddmotto/public-apis">List of Public APIs</a>
+<br><a href="https://newsapi.org/">News API</a>
+<br><a href="http://open-notify.org/">Open APIs From Space</a>
+<br><a href="http://api.bart.gov/docs/overview/index.aspx">San Francisco Bart Real-time API Feed</a>
+<br><a href="http://developer.metro.net/introduction/realtime-api-overview/">Metro Bus and Rail Real-time API Feed</a>
+<br><a href="http://www.railwayapi.com/api/#introduction">Indian Railway Real-time API</a>
 <br>
 <br>
 <h3>Data Generators:</h3>
