@@ -56,6 +56,7 @@
 <br><a href="http://api.bart.gov/docs/overview/index.aspx">San Francisco Bart Real-time API Feed</a>
 <br><a href="http://developer.metro.net/introduction/realtime-api-overview/">Metro Bus and Rail Real-time API Feed</a>
 <br><a href="http://www.railwayapi.com/api/#introduction">Indian Railway Real-time API</a>
+<br><a href="https://www.yelp.com/developers/documentation/v3">YELP API</a>
 <br>
 <br>
 <h3>Data Generators:</h3>
