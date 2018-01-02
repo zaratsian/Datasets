@@ -51,6 +51,7 @@
 <br><a href="http://www.secrepo.com/">Security (Cybersecurity) Datasets</a>
 <br><a href="https://www.quantopian.com/">Quantopian Stock Market Modeling</a>
 <br><a href="http://open-notify.org/">Open APIs From Space</a>
+<br><a href="https://github.com/toddmotto/public-apis">List of Public APIs</a>
 <br>
 <br>
 <h3>Data Generators:</h3>
